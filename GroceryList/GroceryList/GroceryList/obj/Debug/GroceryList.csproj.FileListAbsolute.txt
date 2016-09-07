@@ -1,0 +1,17 @@
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.Page.GroceryList.xaml.g.cs
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.dll
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.pdb
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.csprojResolveAssemblyReference.cache
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.dll.mdb
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\GroceryList.dll.mdb
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\obj\Debug\GroceryList.dll.mdb
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\bin\Debug\GroceryList.dll.mdb

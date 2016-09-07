@@ -1,0 +1,2 @@
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList.UWP\GroceryList.UWP.csproj;x86
+C:\Users\mjc\Desktop\Demo\GroceryList\GroceryList\GroceryList\GroceryList.csproj;neutral
